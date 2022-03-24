@@ -237,4 +237,4 @@ Papoulis, A., and S. U. Pillai. _Probability, Random Variables and Stochastic Pr
 
 ### Links
 
-Hunter, Lawrence. _Introduction to Molecular Biology for the Computer Scientist_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://tandy.cs.illinois.edu/Hunter_MolecularBiology.pdf))
+Hunter, Lawrence. _Introduction to Molecular Biology for the Computer Scientist_. ([PDF](http://tandy.cs.illinois.edu/Hunter_MolecularBiology.pdf))
